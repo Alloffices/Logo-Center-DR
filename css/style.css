@@ -8,15 +8,13 @@ body, html {
 
 body {
   padding: 1em;
-  background: #3498db;
 }
 
 section {
   width: 50%;
-  height: 15em;
+  height: 100vh;
   margin: 0 auto;
   overflow: hidden;
-  background: #2980b9;
   -moz-border-radius: 0.5em;
   -webkit-border-radius: 0.5em;
   border-radius: 0.5em;
